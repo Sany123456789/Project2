@@ -3,6 +3,7 @@ class Demo{
         int a=50;
     int b=80;
     int c=a+b;
+        int d=90;
     }
 
     
